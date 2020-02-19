@@ -26,7 +26,6 @@ import {
 
 const App = () => {
   
-  console.log('hello world')
   return (
     <View>
       <Text>Welcome to my first react native app</Text>
