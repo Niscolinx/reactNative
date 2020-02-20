@@ -25,11 +25,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 const App = () => {
-  
-  start = {
-    number: 0;
-    switch: 'off'
-  }
+
   
   return (
     <View>
