@@ -26,7 +26,7 @@ import {
 
 const App = () => {
 
-  
+  console.log(props)
   return (
     <View>
       <Text>Welcome to my first react native app</Text>
