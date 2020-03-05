@@ -6,7 +6,7 @@
  * @flow
  */
 
-import React from 'react';
+import React, {Component} from 'react';
 import {
   SafeAreaView,
   StyleSheet,
@@ -24,10 +24,12 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
-const App = () => {
+class App extends Component {
 
+  ren
   return (
     <View>
+      <Text>Welcome to my first react native app</Text>
 
     </View>
   );
