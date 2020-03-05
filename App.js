@@ -28,7 +28,6 @@ const App = () => {
 
   return (
     <View>
-      <Text>Welcome to my first react native app</Text>
 
     </View>
   );
