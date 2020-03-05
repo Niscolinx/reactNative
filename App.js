@@ -26,7 +26,9 @@ import {
 
 class App extends Component {
 
-  ren
+  render(){
+    
+  }
   return (
     <View>
       <Text>Welcome to my first react native app</Text>
