@@ -28,13 +28,13 @@ class App extends Component {
 
   render(){
     
+    return (
+      <View>
+        <Text>Welcome to my first react native app</Text>
+  
+      </View>
+    );
   }
-  return (
-    <View>
-      <Text>Welcome to my first react native app</Text>
-
-    </View>
-  );
 }
 
 export default App;
