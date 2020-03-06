@@ -32,7 +32,6 @@ class App extends Component {
       <View>
         <Text>Welcome to my first react native app</Text>
         <Text>Welcome to my first react native app</Text>
-        <Text>Welcome to my first react native app</Text>  
       </View>
     );
   }
