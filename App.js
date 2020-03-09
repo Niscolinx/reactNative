@@ -6,7 +6,7 @@
  * @flow
  */
 
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import {
   SafeAreaView,
   StyleSheet,
@@ -25,9 +25,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 class App extends Component {
-
-  render(){
-    
+  render() {
     return (
       <View>
         <Text>Welcome to my first react native app h</Text>
